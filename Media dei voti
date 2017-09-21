@@ -6,7 +6,7 @@
 <body>
 <?php 
 /*
-*calcolo della media deu voti
+*calcolo della media dei voti
 */
 $voti = array(5, 8, 9, 7, 6, 8, 9, 8, 6);
 $limite = count($voti);
