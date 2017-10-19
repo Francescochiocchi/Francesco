@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+
+<head>
+<div id="h">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"> 
+
+    <title>PHP Tests</title>
+
+    <h1 align="center"> PHP</h1>
+    <h2 align="center">Secondo esercizio PHP</h2>
+    </div>
+</head>
+
+<body>
+    <div id="content">
+    <div id="navbar">
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="phpGet.html">Invio dati GET </a></li>
+        <li><a href="phpPost.html"> Invio dati POST </a></li>
+        <li><a href="phpServer.html"> Dati Server </a></li>
+    </ul>
+    </div>
+    </div>
+    
+    
+    <div class="footer">
+        <p>Posted by: Redi Levendi e Francesco Chiocchi</p>
+        <p>Redi Levendi : <a href="mailto:redi.levendi@divini.org">
+            redi.levendi@divini.org</a>.</p>
+        <p>Francesco Chiocchi : <a href="mailto:francesco.chiocchi@divini.org">
+            francesco.chiocchi@divini.org</a>.</p>
+    </div> 
+</body>
+
+</html>
